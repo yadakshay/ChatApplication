@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ChatApplication</string>
     <string name="ButtonName">Send</string>
+    <string name="clear_chat">Clear Chat</string>
 </resources>
